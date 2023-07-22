@@ -4,7 +4,7 @@
     <img src="public/icon.png" alt="Anubias" width="150">
   </a>
   <br>
-  <a href="https://anubias.app">Anubias Desktop</a>
+  <a href="https://anubias.app">Anubias Desktop personalized</a>
   <br>
   <hr>
 </h1>
